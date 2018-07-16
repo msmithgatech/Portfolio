@@ -1353,6 +1353,10 @@ BEGIN PORTFOLIO HTML PAGE STYLING
   font-size: 14px;
 }
 
+.animated {
+  animation-duration: 9s;
+  animation-fill-mode: both;
+
 .element-animate {
   opacity: 0;
   visibility: hidden;
